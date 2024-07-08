@@ -200,53 +200,77 @@ Aqui estão tipos de exemplo de script de vendas para WhatsApp ou Direct que voc
 Aqui estão 25 frases que você pode utilizar na negociação com o cliente. São possíveis argumentos persuasivos para efetivar a venda.
 
 Frase 1
-Você procura preço ou qualidade? Porque se for somente pelo preço, meu concorrente com certeza te atende. Mas se for [BENEFÍCIOS DO SEU PRODUTO/SERVIÇO.
+Você procura preço ou qualidade? Porque se for somente pelo preço, meu concorrente com certeza te atende. Mas se for [BENEFÍCIOS DO SEU PRODUTO/SERVIÇO].
+
 Frase 2
 Ao tomar essa decisão, você estará investindo não apenas em um [PRODUTO/SERVIÇO], mas em uma transformação completa.
+
 Frase 3
 Mal posso esperar para ouvir suas histórias de sucesso depois de adquirir esse [PRODUTO/SERVIÇO].
+
 Frase 4
 Faça parte do grupo exclusivo que já está desfrutando dos benefícios exclusivos deste [PRODUTO/SERVIÇO].
+
 Frase 5
 Ao escolher este [PRODUTO/SERVIÇO], você está escolhendo mais do que um item, está escolhendo um estilo de vida.
+
 Frase 6
 Não é uma questão de sorte; é uma questão de tomar a decisão certa na hora certa.
+
 Frase 7
 Estou ansioso(a) para testemunhar o [IMPACTO POSITIVO] que esse [PRODUTO/SERVIÇO] fará na [ÁREA DE TRANSFORMAÇÃO DO SEU PRODUTO/SERVIÇO].
+
 Frase 8
 Sem sombra de dúvida, esse [PRODUTO/SERVIÇO] é o que vai mudar [SITUAÇÃO ATUAL DO CLIENTE].
+
 Frase 9
 Não compre esse [PRODUTO/SERVIÇO], a menos que queira parecer [BENEFÍCIO]. Ex.: "Não faça botox, a menos que queira parecer 10 anos mais jovem"; "Não compre essa casa, a não ser que queira ser chamada de milionária".
+
 Frase 10
 De que forma você prefere realizar o pagamento, X ou Y? (Dessa forma o cliente só visualiza essas duas opções de escolha).
+
 Frase 11
 Qual horário fica melhor para você, 14h ou 16h? (Nunca pergunte se a pessoa quer agendar, já disponibilize as opções de escolha).
+
 Frase 12
-Você procura preço ou qualidade? Porque se for somente pelo preço, meu concorrente com certeza te atende. Mas se for [BENEFÍCIOS DO SEU PRODUTO/SERVIÇO.
+Você procura preço ou qualidade? Porque se for somente pelo preço, meu concorrente com certeza te atende. Mas se for [BENEFÍCIOS DO SEU PRODUTO/SERVIÇO].
+
 Frase 13
 Quando você perceber o potencial desse [PRODUTO/SERVIÇO], se perguntará por que não o descobriu antes.
+
 Frase 14
 Em um mercado saturado de opções, [PRODUTO/SERVIÇO] se destaca como a melhor escolha para [DOR QUE O CLIENTE TE APRESENTOU].
+
 Frase 15
 Se eu estivesse no seu lugar, na sua situação e com essa proposta irrecusável do [PRODUTO/SERVIÇO], eu não pensaria duas vezes em tomar a decisão.
+
 Frase 16
 Não tenho dúvida [FULANO] que este é o melhor negócio do ano que você irá fazer.
+
 Frase 17
 Gostaria de saber, você prefere o [PRODUTO/SERVIÇO] X ou o [PRODUTO/SERVIÇO] Z?
+
 Frase 18
 Você sabe que esta proposta é o melhor custo-benefício do mercado [FULANO].
+
 Frase 19
 Mais cedo ou mais tarde, você verá que fez a escolha certa em fecharmos o acordo sobre o [PRODUTO/SERVIÇO].
+
 Frase 20
 Se não fecharmos hoje, amanhã você me perguntará: por que não tomei a decisão de adquirir o [PRODUTO/SERVIÇO] antes.
+
 Frase 21
 Não vou te pressionar a decidir agora, mas sabe que essa é a melhor escolha para ambos.
+
 Frase 22
 Mais cedo ou mais tarde, você se perguntará: porque não encontrei este [PRODUTO/SERVIÇO] antes.
+
 Frase 23
 Não preciso pedir que confie em mim, você sabe que a [SOLUÇÃO] que estou te apresentando com o [PRODUTO/SERVIÇO] vai resolver 100% sua [DOR/PROBLEMA].
+
 Frase 24
 O que você precisa para fecharmos nosso acordo [FULANO]? 
+
 Frase 25
 Poderia dizer que os [PRODUTOS/SERVIÇOS] são perfeitos para você, mas quero que você descubra isso sozinho.
 
@@ -259,36 +283,57 @@ Aqui estão 11 frases que você DEVE evitar em suas negociações e insights sob
 
 Frase 1
 Para ser honesto com você/Vou ser honesto com você
+
 ❌ Esta expressão pode sugerir que, em outros momentos, você não está sendo honesto. A honestidade deve ser uma prática constante, e usar essa frase pode levantar dúvidas sobre a integridade nas outras partes da conversa.
+
 Frase 2
 Para ser franco com você/Vou ser transparente com você
+
 ❌ Similar à primeira frase, o uso dessas expressões pode fazer com que a outra parte questione a transparência em outras ocasiões. A transparência e franqueza devem ser a norma em uma negociação.
+
 Frase 3
 Confie em mim/Acredite em mim
+
 ❌ Pedir confiança diretamente pode levantar suspeitas. A confiança deve ser conquistada por meio de ações e demonstrações consistentes ao longo do tempo, e não por uma simples declaração.
+
 Frase 4
 Desculpa incomodar/Desculpe atrapalhar
+
 ❌ Essa frase pode diminuir a sua posição na negociação e sugerir que sua presença ou comunicação é inconveniente. É melhor abordar a conversa de maneira positiva e assertiva.
+
 Frase 5
 Estou apenas acompanhando você/Estou entrando em contato pra te acompanhar
+
 ❌ Isso pode parecer invasivo ou excessivamente insistente. Em vez disso, concentre-se nos benefícios da continuação da conversa e no valor que você pode oferecer.
+
 Frase 6
 Você quer comprar qual desses?
+
 ❌ Nunca use a palavra “COMPRAR”, nunca fale essa palavra “COMPRAR”, não reforce este comportamento, use a palavra “TER”, “POSSUIR” (ex: você gostaria de possuir o [PRODUTO/SERVIÇO]?) ao invés de (ex: você gostaria de COMPRAR o [PRODUTO/SERVIÇO].
+
 Frase 7
 Agora só falta assinar o contrato!
+
 ❌ Nunca use a palavra “contrato”, a pessoa já pensa: “Ah, terei que ler várias páginas?” A sensação é de prisão. Use: “termos do nosso acordo”.
+
 Frase 8
 Não tive notícias suas/Não recebi um retorno seu [FULANO].
+
 ❌ Essa frase pode transparecer culpa e colocar a outra pessoa na defensiva. É melhor abordar a falta de resposta de maneira mais neutra, como solicitando um retorno ou esclarecendo a necessidade de comunicação.
+
 Frase 9
 Eu sei que você é uma pessoa muito ocupada / Eu sei que você não tem muito tempo.
+
 ❌ Essa declaração pode parecer presumida e não levar em conta a priorização individual. É melhor focar na relevância e benefícios da conversa.
+
 Frase 10
 Somos melhores que a empresa X, Y e Z/ Somos os melhores do mercado
+
 ❌ Essa afirmação pode parecer arrogante e afastar a outra parte. É mais eficaz destacar os pontos fortes e vantagens específicas sem menosprezar a concorrência.
+
 Frase 11
 Está barato, quando você diz que seu produto “esta barato” você tira totalmente a percepção de valor dele mediante ao seu cliente.
+
 ❌ Indicar que algo está barato pode desvalorizar o produto ou serviço, sugerindo que não é de alta qualidade. É melhor comunicar o valor intrínseco e os benefícios do que simplesmente focar no preço baixo.
 
 
@@ -440,15 +485,19 @@ Veja alguns exemplos a seguir:
 Exemplo 1
 Exemplo 1 - Olá [FULANO], tudo bem? Me chamo [NOME], sou responsável pelo [SETOR] da [EMPRESA].
 Estou enviando um formulário: [LINK], para ser preenchido. Ok?
+
 Exemplo 2
 Exemplo 2 - Olá [FULANO], tudo bem? Me chamo [NOME], sou responsável pelo [SETOR] da [EMPRESA].
 Quantas vendas do [PRODUTO/SERVIÇO] você realiza no mês?
+
 Exemplo 3
 Exemplo 3 - Olá [FULANO], tudo bem? Me chamo [NOME], sou responsável pelo [SETOR] da [EMPRESA].
-Qual seu ticket médio na venda do [PRODUTO/SERVIÇO?
+Qual seu ticket médio na venda do [PRODUTO/SERVIÇO?]
+
 Exemplo 4
 Olá [FULANO], tudo bem? Me chamo [NOME], sou responsável pelo [SETOR] da [EMPRESA].
 Quantos funcionários você tem hoje disponível hoje para atender a demanda comercial que chegará na sua [EMPRESA]?
+
 Exemplo 5
 Olá [FULANO], tudo bem? Me chamo [NOME], sou responsável pelo [SETOR] da [EMPRESA].
 Quanto você teria disponível para realizar o investimento neste [PRODUTO/SERVIÇO] hoje?
@@ -598,34 +647,52 @@ O cliente também pode expressar preocupações financeiras ao receber uma ofert
 
 ### Objeções de urgência
 Alguns clientes adiam a decisão de compra, acreditando que a solução estará disponível no futuro. O desafio é convencê-los da importância de decidir no momento, utilizando gatilhos mentais, como a escassez, para criar um senso de urgência.
+
 ❌ Vou pensar e te retorno.
+
 ❌ Gostei da sua oferta, mas não vou fechar agora. Quem sabe no mês que vem?
+
 Quando uma pessoa está com fome, ela quer comer agora, e não daqui a duas horas. Da mesma forma, uma pessoa que precisa resolver um problema, ela quer resolver, e não no mês que vem.
 Portanto, se um cliente diz algo assim, é porque ele ainda não despertou o senso de urgência que, na maioria dos casos, cabe a você fazer.
+
 Exemplo 1
 Realmente [FULANO], compreendo e concordo que precisamos pensar pra tomar uma decisão muito importante.
 Diante disso, o que você precisaria pensar pra se sentir mais seguro pra tomar a decisão de adquirir o [PRODUTO/SERVIÇO]?
+
 Exemplo 2
 [FULANO], se você precisa pensar é porque nosso bate papo te gerou alguma dúvida, o que exatamente está te fazendo pensar?
+
 Exemplo 3
 [FULANO], o que exatamente é necessário para fecharmos negócio? O que te faz pensar? É preço? Digamos que temos condições especiais para ter agora o [PRODUTO/SERVIÇO], teríamos um acordo [FULANO]?
+
 Exemplo 4
 Você me disse estar procurando [PRODUTO/SERVIÇO] para resolver [DOR QUE LEAD APRESENTOU]. Isso é uma prioridade agora?
+
 ❌ Preciso conversar com meu marido e entro em contato.
+
 ❌ Vou analisar com meu sócio e te chamo.
+
 Quando o seu cliente te afirma que não é o tomador de decisão, você precisa identificar se é verdade ou se trata de uma desculpa. Seguem alguns exemplos de como retomar o controle da negociação.
+
 Exemplo 1
 [FULANO] se dependesse apenas de você agora, fecharíamos negócio?
+
 Exemplo 2
 [FULANO] o que é que você precisa mostrar/apresentar pra essa pessoa aprovar a tomada de decisão?
+
 Exemplo 3
-[FULANO] você gostaria que conversássemos juntos com [O(A) TOMADOR(A) DE DECISÃO, para explicar a solução do [SERVIÇO/PRODUTO] de maneira mais assertiva para avançarmos na negociação?
+[FULANO] você gostaria que conversássemos juntos com [O(A) TOMADOR(A) DE DECISÃO], para explicar a solução do [SERVIÇO/PRODUTO] de maneira mais assertiva para avançarmos na negociação?
+
 ❌ Entrarei em contato com você na segunda, pode ser?
+
 Essa objeção pode se tratar de uma tentativa de postergar decisões, mas também pode ser que o cliente não viu valor na sua proposta. Precisamos saber para retomarmos a negociação.
+
 Exemplo 1
 [FULANO], você sabe que geralmente quando conversamos com alguém nunca mais essa pessoa retorna, então vou ser direto, o que é necessário para concretizarmos o negócio do [PRODUTO/SERVIÇO] hoje?
+
 Exemplo 2
 [FULANO], preciso da verdade para avançarmos na negociação, você precisa pensar? Algo te deixou em dúvida?
+
 Exemplo 3
 [FULANO], qual parte do [PRODUTO/SERVIÇO] você não te agradou? Poderia me dizer para sermos o mais assertivo possível em nossa negociação?
 
@@ -778,12 +845,16 @@ Assim que o pagamento for aprovado, seu [PRODUTO/SERVIÇO] será concretizado. |
 
 ### Quando o cliente não finaliza o pagamento
 Quando o cliente não finaliza o pagamento do [PRODUTO/SERVIÇO], é necessário aplicar uma estratégia que é conhecida mundialmente no mundo das vendas:
+
 ✅ Fazer com que o cliente sinta-se especial, que o [PRODUTO/SERVIÇO] dele já esta reservado/separado, aguardando somente o pagamento.
+
 Exemplo 1
 Olá [FULANO], tudo bem? Me chamo [NOME], sou responsável pelo setor comercial do time [EMPRESA]. Estou passando para lhe informar que o seu [PRODUTO/SERVIÇO] está pronto/separado, estamos aguardando somente a confirmação de pagamento.
 Se precisar de ajuda só me contatar. Ok?
+
 Exemplo 2
 Olá [FULANO], tudo bem? Me chamo [NOME], sou responsável pelo setor comercial da [EMPRESA]. Estou passando para verificar se houve algum problema durante o pagamento do seu [PRODUTO/SERVIÇO].
+
 Você necessita de alguma ajuda?
 
 
@@ -799,10 +870,13 @@ Veja na prática como funciona um follow-up:
 
 Exemplo 1
 Olá [FULANO], tudo bem? Conversamos a alguns dias a respeito do [PRODUTO/SERVIÇO]. Existe algo que podemos analisar juntos?
+
 Exemplo 2
 Olá, tudo bem? Nós falamos por telefone no dia X, estou retornando a ligação para saber se podemos avançar na nossa parceria [FULANO]?
+
 Exemplo 3
 Olá [FULANO], tudo bem? Olha só este cliente do mesmo segmento que o seu, colhendo os resultados de nossa parceria. [ENVIAR UMA PROVA SOCIAL], gatilho ensinado no módulo de “GATILHOS MENTAIS”.
+
 Exemplo 4
 Olá [FULANO], tudo bem? Passando para saber como esta sendo a experiência do nosso [PRODUTO/SERVIÇO]?
 
@@ -813,10 +887,13 @@ Olá [FULANO], tudo bem? Passando para saber como esta sendo a experiência do n
 
 ### Como oferecer assistência
 Após a compra, os clientes podem precisar de assistência, solução de problemas ou esclarecimento de dúvidas. Uma equipe de suporte eficaz é vital para manter a satisfação do cliente e garantir que eles obtenham o máximo valor do produto ou serviço.
+
 Exemplo 1
 Olá, tudo bem? Faço parte da [EMPRESA]. Como posso ajudá-lo?
+
 Exemplo 2
 Bom dia, me chamo [NOME]. Sou responsável pela parte comercial da [EMPRESA]. Como podemos lhe auxiliar neste momento?
+
 Exemplo 3
 Boa tarde, tudo bem? Em que posso lhe auxiliar hoje, [FULANO]?
 
